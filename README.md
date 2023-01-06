@@ -29,6 +29,6 @@ Github: https://github.com/anthonynguyen-dev
 
 ## Project Links
 
-Live Site: https://anthonynguyen-dev.github.io/employee-generator/
-Github Link: https://github.com/anthonynguyen-dev/employee-generator
+Live Site: https://anthonynguyen-dev.github.io/note-taker-app/
+Github Link: https://github.com/anthonynguyen-dev/note-taker-app
 ![Site Image](<./images/Screenshot (30).png>)
