@@ -12,6 +12,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 // telling our server to use these routes
+// api routes must be above the index html route because * overwites our api routes
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
