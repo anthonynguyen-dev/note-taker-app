@@ -30,5 +30,6 @@ Github: https://github.com/anthonynguyen-dev
 ## Project Links
 
 Live Site: https://anthonynguyen-dev.github.io/note-taker-app/
+Heroku LiveSite: https://anguyen-note-taker-app.herokuapp.com/
 Github Link: https://github.com/anthonynguyen-dev/note-taker-app
 ![Site Image](<./images/Screenshot (30).png>)
